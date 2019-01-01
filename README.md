@@ -1,1 +1,0 @@
-# vue-product-page
